@@ -14,7 +14,14 @@ int main()
     string LookSayString = "1";
     string newString;
 
-//debug statement because I'm not exactly a pro.
+    //debug statement because I'm not exactly a pro.
     cout << LookSayString;
+
+    for (int i = 0; i < LookSayString.size; i++)
+    {
+        LookFor = LookSayString[i];
+        cout << LookFor;
+    }
+
     return 0;
 }

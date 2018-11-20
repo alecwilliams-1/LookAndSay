@@ -1,0 +1,3 @@
+H:\Documents\GitHub\LookAndSay\Lookandsay.cpp:20:39: error: 'std::__cxx11::string {aka class std::__cxx11::basic_string<char>}' has no member named 'size_t'; did you mean 'size'?
+     for (int i = 0; i < LookSayString.size_t; i++)
+                                       ^~~~~~
