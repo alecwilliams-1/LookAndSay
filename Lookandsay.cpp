@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 using namespace std;
 int main()
 {
@@ -10,8 +11,8 @@ int main()
 
     /* the string that is being analyzed and
     the string that is being constructed from the one being parsed*/
-    char *LookSayString = "1";
-    char* newString;
+    string LookSayString = "1";
+    string newString;
 
 //debug statement because I'm not exactly a pro.
     cout << LookSayString;
