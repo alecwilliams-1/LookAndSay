@@ -1,0 +1,6 @@
+H:\Documents\GitHub\LookAndSay\Lookandsay.cpp:12:16: error: expected constructor, destructor, or type conversion before '=' token
+ &LookSayString = 49;
+                ^
+H:\Documents\GitHub\LookAndSay\Lookandsay.cpp:15:1: error: 'cout' does not name a type
+ cout << LookSayString;
+ ^~~~
